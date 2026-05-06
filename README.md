@@ -34,13 +34,17 @@ philosophy:       "Simplicity is the ultimate sophistication" / "简约是极致
 
 ## **// ABOUT | 关于**
 
-> A full-stack developer passionate about building elegant and performant systems. From frontend interfaces to backend architectures, I craft solutions that are both beautiful and robust. Open source enthusiast, always exploring new technologies and sharing knowledge.
->
-> Also deeply engaged in industrial IoT and energy systems — bridging IT and OT with protocols like Modbus, OPC-UA, BACnet and IEC 61850. Experienced in wind power, solar PV, energy storage, and smart grid infrastructure. Building the future where software meets the physical world.
+<div style="text-align: justify; max-width: 800px; margin: 0 auto;">
 
-> 一名热衷于构建优雅且高性能系统的全栈开发者。从前端界面到后端架构，我致力于打造既美观又健壮的解决方案。开源爱好者，始终在探索新技术并分享知识。
->
-> 同时深耕工业物联网与能源系统领域——以 Modbus、OPC-UA、BACnet、IEC 61850 等协议打通 IT 与 OT 的边界。在风电、光伏、储能及智能电网基础设施方面拥有丰富经验。致力于构建软件与物理世界融合的未来。
+> A full-stack developer passionate about building elegant and performant systems. From frontend interfaces to backend architectures, I craft solutions that are both beautiful and robust. Open source enthusiast, always exploring new technologies and sharing knowledge. Also deeply engaged in industrial IoT and energy systems — bridging IT and OT with protocols like Modbus, OPC-UA, BACnet and IEC 61850. Experienced in wind power, solar PV, energy storage, and smart grid infrastructure. Building the future where software meets the physical world.
+
+</div>
+
+<div style="text-align: justify; max-width: 800px; margin: 0 auto;">
+
+> 一名热衷于构建优雅且高性能系统的全栈开发者。从前端界面到后端架构，我致力于打造既美观又健壮的解决方案。开源爱好者，始终在探索新技术并分享知识。同时深耕工业物联网与能源系统领域——以 Modbus、OPC-UA、BACnet、IEC 61850 等协议打通 IT 与 OT 的边界。在风电、光伏、储能及智能电网基础设施方面拥有丰富经验。致力于构建软件与物理世界融合的未来。
+
+</div>
 
 ---
 
