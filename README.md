@@ -28,12 +28,22 @@ philosophy: "Simplicity is the ultimate sophistication"
 ## GitHub Analytics | GitHub 数据
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anviod&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=ffffff&ring_color=ffffff&cache_seconds=1800" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=anviod&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=anviod&theme=dark&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff" />
+  <table style="border-collapse: collapse; width: 80%;">
+    <tr>
+      <td style="border: 1px solid #ffffff; padding: 15px; text-align: center;">
+        <strong style="font-size: 24px;">Total Contributions</strong><br>
+        <span style="font-size: 36px; font-weight: bold;">72+</span>
+      </td>
+      <td style="border: 1px solid #ffffff; padding: 15px; text-align: center;">
+        <strong style="font-size: 24px;">Repositories</strong><br>
+        <span style="font-size: 36px; font-weight: bold;">5+</span>
+      </td>
+      <td style="border: 1px solid #ffffff; padding: 15px; text-align: center;">
+        <strong style="font-size: 24px;">Commits</strong><br>
+        <span style="font-size: 36px; font-weight: bold;">500+</span>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
