@@ -48,7 +48,7 @@ philosophy:       "Simplicity is the ultimate sophistication"
 ## **// PERFORMANCE METRICS | 性能指标**
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anviod&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=8b949e&ring_color=00ff88" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anviod&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=8b949e&ring_color=00ff88" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=anviod&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=8B949E&dates=8B949E" />
 </div>
 
