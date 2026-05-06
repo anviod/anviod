@@ -1,14 +1,5 @@
 <div align="center">
 
-```
- █████╗ ███╗   ██╗██╗██╗  ██╗███████╗
-██╔══██╗████╗  ██║██║██║ ██╔╝██╔════╝
-███████║██╔██╗ ██║██║█████╔╝ ███████╗
-██╔══██║██║╚██╗██║██║██╔═██╗ ╚════██║
-██║  ██║██║ ╚████║██║██║  ██╗███████║
-╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚══════╝
-```
-
 **FULL-STACK DEVELOPMENT SYSTEM · OPERATOR: ANVIOD**
 **全栈开发系统 · 操作员：ANVIOD**
 
@@ -27,21 +18,20 @@ status:           ACTIVE / 活跃
 primary_focus:    Full-Stack Development / 全栈开发
 secondary_focus:  Open Source Infrastructure / 开源基础设施
 languages:        TypeScript · Rust · Go · Python
-philosophy:       "Simplicity is the ultimate sophistication"
-                  "简约是极致的精致"
+philosophy:       "Simplicity is the ultimate sophistication" / "简约是极致的精致"
 ```
 
 ---
 
 ## **// ABOUT | 关于**
 
-> A full-stack developer passionate about building elegant and performant systems.
-> From frontend interfaces to backend architectures, I craft solutions that are both beautiful and robust.
-> Open source enthusiast, always exploring new technologies and sharing knowledge.
+> A full-stack developer passionate about building elegant and performant systems. From frontend interfaces to backend architectures, I craft solutions that are both beautiful and robust. Open source enthusiast, always exploring new technologies and sharing knowledge.
+>
+> Also deeply engaged in industrial IoT and energy systems — bridging IT and OT with protocols like Modbus, OPC-UA, BACnet and IEC 61850. Experienced in wind power, solar PV, energy storage, and smart grid infrastructure. Building the future where software meets the physical world.
 
-> 一名热衷于构建优雅且高性能系统的全栈开发者。
-> 从前端界面到后端架构，我致力于打造既美观又健壮的解决方案。
-> 开源爱好者，始终在探索新技术并分享知识。
+> 一名热衷于构建优雅且高性能系统的全栈开发者。从前端界面到后端架构，我致力于打造既美观又健壮的解决方案。开源爱好者，始终在探索新技术并分享知识。
+>
+> 同时深耕工业物联网与能源系统领域——以 Modbus、OPC-UA、BACnet、IEC 61850 等协议打通 IT 与 OT 的边界。在风电、光伏、储能及智能电网基础设施方面拥有丰富经验。致力于构建软件与物理世界融合的未来。
 
 ---
 
@@ -87,6 +77,52 @@ philosophy:       "Simplicity is the ultimate sophistication"
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### **[ INDUSTRIAL AUTOMATION | 工业自动化 ]**
+
+![Siemens](https://img.shields.io/badge/Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white)
+![PLC](https://img.shields.io/badge/PLC-FF6F00?style=for-the-badge&logo=prosieben&logoColor=white)
+![SCADA](https://img.shields.io/badge/SCADA-4A90D9?style=for-the-badge&logo=grafana&logoColor=white)
+![DCS](https://img.shields.io/badge/DCS-8E44AD?style=for-the-badge&logo=processwire&logoColor=white)
+![MES](https://img.shields.io/badge/MES-2C3E50?style=for-the-badge&logo=sap&logoColor=white)
+![HMI](https://img.shields.io/badge/HMI-16A085?style=for-the-badge&logo=touchpointer&logoColor=white)
+
+### **[ INDUSTRIAL PROTOCOLS | 工业通信协议 ]**
+
+![Modbus](https://img.shields.io/badge/Modbus-1A73E8?style=for-the-badge&logo=modbus&logoColor=white)
+![OPC-UA](https://img.shields.io/badge/OPC_UA-9B59B6?style=for-the-badge&logo=opcuaiot&logoColor=white)
+![BACnet](https://img.shields.io/badge/BACnet-2ECC71?style=for-the-badge&logo=smartthings&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![PROFINET](https://img.shields.io/badge/PROFINET-00875A?style=for-the-badge&logo=profinet&logoColor=white)
+![EtherCAT](https://img.shields.io/badge/EtherCAT-E67E22?style=for-the-badge&logo=ethernet&logoColor=white)
+![CANopen](https://img.shields.io/badge/CANopen-C0392B?style=for-the-badge&logo=canyon&logoColor=white)
+![IEC 61850](https://img.shields.io/badge/IEC_61850-D35400?style=for-the-badge&logo=powerautomate&logoColor=white)
+![IEC 104](https://img.shields.io/badge/IEC_104-7F8C8D?style=for-the-badge&logo=powerapps&logoColor=white)
+
+### **[ IoT & EDGE | 物联网与边缘计算 ]**
+
+![IoT](https://img.shields.io/badge/IoT-E6770E?style=for-the-badge&logo=iota&logoColor=white)
+![Edge Computing](https://img.shields.io/badge/Edge_Computing-3498DB?style=for-the-badge&logo=edge&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![CoAP](https://img.shields.io/badge/CoAP-27AE60?style=for-the-badge&logo=webmin&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-F39C12?style=for-the-badge&logo=lora&logoColor=white)
+![Zigbee](https://img.shields.io/badge/Zigbee-E01A22?style=for-the-badge&logo=zigbee&logoColor=white)
+![NB-IoT](https://img.shields.io/badge/NB_IoT-2980B9?style=for-the-badge&logo=nfc&logoColor=white)
+![5G](https://img.shields.io/badge/5G-E91E63?style=for-the-badge&logo=fivehundredpx&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### **[ ENERGY SYSTEMS | 能源系统 ]**
+
+![Wind Power](https://img.shields.io/badge/Wind_Power-00B4D8?style=for-the-badge&logo=windi&logoColor=white)
+![Solar PV](https://img.shields.io/badge/Solar_PV-FDB813?style=for-the-badge&logo=sololearn&logoColor=black)
+![Energy Storage](https://img.shields.io/badge/Energy_Storage-00D26A?style=for-the-badge&logo=batteryfull&logoColor=white)
+![BMS](https://img.shields.io/badge/BMS-1ABC9C?style=for-the-badge&logo=bookmeter&logoColor=white)
+![EMS](https://img.shields.io/badge/EMS-3498DB?style=for-the-badge&logo=powerbi&logoColor=white)
+![IEC 61850](https://img.shields.io/badge/IEC_61850-D35400?style=for-the-badge&logo=powerautomate&logoColor=white)
+![SCADA](https://img.shields.io/badge/SCADA_Power-4A90D9?style=for-the-badge&logo=grafana&logoColor=white)
+![Microgrid](https://img.shields.io/badge/Microgrid-9B59B6?style=for-the-badge&logo=microgen&logoColor=white)
 
 ---
 
