@@ -1,23 +1,23 @@
 <div align="center">
 
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117,ffffff,0d1117&height=3&section=header" />
 
-## Hi, I'm anviod 👋
+## Hi, I'm anviod
 
 **Full-Stack Developer | Open Source Enthusiast**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117,ffffff,0d1117&height=2&section=header" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me | 关于我
+## About Me | 关于我
 
 ```yaml
 name: anviod
-location: 🌍 Earth
+location: Earth
 current_focus: Full-Stack Development & Open Source
 languages: TypeScript, Rust, Go, Python
 philosophy: "Simplicity is the ultimate sophistication"
@@ -25,26 +25,26 @@ philosophy: "Simplicity is the ultimate sophistication"
 
 ---
 
-## 📊 GitHub Analytics | GitHub 数据
+## GitHub Analytics | GitHub 数据
 
 <div align="center">
   <table>
     <tr>
-      <td style="border-right: 2px solid #1f6feb; padding-right: 15px;">
-        <img height="160" src="https://github-readme-stats.vercel.app/api?username=anviod&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=1f6feb&cache_seconds=1800" />
+      <td style="border-right: 1px solid #ffffff; padding-right: 15px;">
+        <img height="160" src="https://github-readme-stats.vercel.app/api?username=anviod&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=ffffff&ring_color=ffffff&cache_seconds=1800" />
       </td>
       <td style="padding-left: 15px;">
-        <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=anviod&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" />
+        <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=anviod&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" />
       </td>
     </tr>
   </table>
   <br>
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=anviod&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=anviod&theme=dark&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff" />
 </div>
 
 ---
 
-## 🛠️ Tech Stack | 技术栈
+## Tech Stack | 技术栈
 
 <div align="center">
 
@@ -77,15 +77,15 @@ philosophy: "Simplicity is the ultimate sophistication"
 
 ---
 
-## 🚀 Featured Projects | 精选项目
+## Featured Projects | 精选项目
 
 <div align="center">
-  [![Featured Repo](https://github-readme-stats.vercel.app/api/pin/?username=anviod&repo=anviod&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e)]()
+  [![Featured Repo](https://github-readme-stats.vercel.app/api/pin/?username=anviod&repo=anviod&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=ffffff)]()
 </div>
 
 ---
 
-## 🤝 Let's Connect | 联系我
+## Let's Connect | 联系我
 
 <div align="center">
   [![GitHub](https://img.shields.io/badge/GitHub-anviod-181717?style=flat&logo=github&logoColor=white)](https://github.com/anviod)
@@ -95,9 +95,9 @@ philosophy: "Simplicity is the ultimate sophistication"
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=anviod&style=flat&color=1f6feb&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=anviod&style=flat&color=ffffff&label=Profile+Views" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117,ffffff,0d1117&height=3&section=footer" />
 </div>
