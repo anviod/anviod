@@ -1,124 +1,104 @@
 <div align="center">
 
-<!-- SYSTEM STATUS HEADER -->
-<div style="background: linear-gradient(135deg, #0a0e17 0%, #1a1f35 100%); border: 1px solid #00d4ff; border-radius: 8px; padding: 15px; width: 90%; box-shadow: 0 0 20px rgba(0, 212, 255, 0.3);">
-  <div style="display: flex; align-items: center; justify-content: space-between;">
-    <div style="display: flex; align-items: center;">
-      <span style="display: inline-block; width: 12px; height: 12px; background-color: #00ff88; border-radius: 50%; animation: pulse 2s infinite;"></span>
-      <span style="color: #00d4ff; font-family: 'Courier New', monospace; font-size: 14px; margin-left: 10px;">SYSTEM ONLINE</span>
-    </div>
-    <div>
-      <span style="color: #888; font-family: 'Courier New', monospace; font-size: 12px;">v2.0.0 | BUILD 20260506</span>
-    </div>
-  </div>
-</div>
+```
+ █████╗ ███╗   ██╗██╗██╗  ██╗███████╗
+██╔══██╗████╗  ██║██║██║ ██╔╝██╔════╝
+███████║██╔██╗ ██║██║█████╔╝ ███████╗
+██╔══██║██║╚██╗██║██║██╔═██╗ ╚════██║
+██║  ██║██║ ╚████║██║██║  ██╗███████║
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝╚══════╝
+```
 
-<br>
+**FULL-STACK DEVELOPMENT SYSTEM · OPERATOR: ANVIOD**
+**全栈开发系统 · 操作员：ANVIOD**
 
-<!-- MAIN TITLE -->
-<div style="font-family: 'Courier New', monospace;">
-  <h1 style="color: #00d4ff; text-shadow: 0 0 10px rgba(0, 212, 255, 0.5); font-size: 36px; letter-spacing: 3px;">
-    OPERATOR: ANVIOD
-  </h1>
-  <p style="color: #00ff88; font-size: 16px; letter-spacing: 2px;">FULL-STACK DEVELOPMENT SYSTEM</p>
-</div>
-
-<!-- DIVIDER LINE -->
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0a0e17,00d4ff,0a0e17&height=2&section=header" />
+![Profile Views](https://komarev.com/ghpvc/?username=anviod&style=flat-square&color=00ff88&label=VIEWS)
 
 </div>
 
 ---
 
-## // IDENTITY CORE | 身份核心
+## **// IDENTITY CORE | 身份核心**
 
-<div style="background: linear-gradient(135deg, #0a0e17 0%, #1a1f35 100%); border: 1px solid #00d4ff; border-radius: 8px; padding: 20px; margin: 10px; box-shadow: inset 0 0 30px rgba(0, 212, 255, 0.1);">
 ```yaml
 operator:         anviod
-location:         Earth Sector
-status:           ACTIVE
-primary_focus:    Full-Stack Development
-secondary_focus:  Open Source Infrastructure
-languages:        TypeScript | Rust | Go | Python
+location:         Earth Sector / 地球分区
+status:           ACTIVE / 活跃
+primary_focus:    Full-Stack Development / 全栈开发
+secondary_focus:  Open Source Infrastructure / 开源基础设施
+languages:        TypeScript · Rust · Go · Python
 philosophy:       "Simplicity is the ultimate sophistication"
+                  "简约是极致的精致"
 ```
+
+---
+
+## **// ABOUT | 关于**
+
+> A full-stack developer passionate about building elegant and performant systems.
+> From frontend interfaces to backend architectures, I craft solutions that are both beautiful and robust.
+> Open source enthusiast, always exploring new technologies and sharing knowledge.
+
+> 一名热衷于构建优雅且高性能系统的全栈开发者。
+> 从前端界面到后端架构，我致力于打造既美观又健壮的解决方案。
+> 开源爱好者，始终在探索新技术并分享知识。
+
+---
+
+## **// PERFORMANCE METRICS | 性能指标**
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anviod&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=8b949e&ring_color=00ff88" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=anviod&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=8B949E&dates=8B949E" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anviod&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff88&line=00ff88&point=00ff88&area=true&area_color=00ff88" />
 </div>
 
 ---
 
-## // PERFORMANCE METRICS | 性能指标
+## **// TECHNOLOGY ARRAY | 技术阵列**
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+### **[ LANGUAGES | 编程语言 ]**
 
-  <!-- METRIC CARD 1 -->
-  <div style="background: linear-gradient(135deg, #0a0e17 0%, #1a1f35 100%); border: 1px solid #00ff88; border-radius: 8px; padding: 20px; width: 200px; text-align: center; box-shadow: 0 0 15px rgba(0, 255, 136, 0.2);">
-    <div style="color: #00ff88; font-family: 'Courier New', monospace; font-size: 12px; margin-bottom: 10px;">TOTAL CONTRIBUTIONS</div>
-    <div style="color: #fff; font-family: 'Courier New', monospace; font-size: 48px; font-weight: bold; text-shadow: 0 0 10px rgba(0, 255, 136, 0.5);">72+</div>
-  </div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-  <!-- METRIC CARD 2 -->
-  <div style="background: linear-gradient(135deg, #0a0e17 0%, #1a1f35 100%); border: 1px solid #00d4ff; border-radius: 8px; padding: 20px; width: 200px; text-align: center; box-shadow: 0 0 15px rgba(0, 212, 255, 0.2);">
-    <div style="color: #00d4ff; font-family: 'Courier New', monospace; font-size: 12px; margin-bottom: 10px;">REPOSITORIES</div>
-    <div style="color: #fff; font-family: 'Courier New', monospace; font-size: 48px; font-weight: bold; text-shadow: 0 0 10px rgba(0, 212, 255, 0.5);">5+</div>
-  </div>
+### **[ FRONTEND MODULES | 前端模块 ]**
 
-  <!-- METRIC CARD 3 -->
-  <div style="background: linear-gradient(135deg, #0a0e17 0%, #1a1f35 100%); border: 1px solid #ff6b6b; border-radius: 8px; padding: 20px; width: 200px; text-align: center; box-shadow: 0 0 15px rgba(255, 107, 107, 0.2);">
-    <div style="color: #ff6b6b; font-family: 'Courier New', monospace; font-size: 12px; margin-bottom: 10px;">COMMITS</div>
-    <div style="color: #fff; font-family: 'Courier New', monospace; font-size: 48px; font-weight: bold; text-shadow: 0 0 10px rgba(255, 107, 107, 0.5);">500+</div>
-  </div>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-</div>
+### **[ BACKEND SYSTEMS | 后端系统 ]**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### **[ INFRASTRUCTURE | 基础设施 ]**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
 ---
 
-## // TECHNOLOGY ARRAY | 技术阵列
+## **// CONNECT | 链接**
 
-<div style="background: linear-gradient(135deg, #0a0e17 0%, #1a1f35 100%); border: 1px solid #00d4ff; border-radius: 8px; padding: 20px; margin: 10px;">
-
-  <div style="color: #00d4ff; font-family: 'Courier New', monospace; font-size: 14px; margin-bottom: 15px; text-align: center;">[ LANGUAGES ]</div>
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
-    <span style="background: rgba(49, 120, 198, 0.2); border: 1px solid #3178c6; border-radius: 4px; padding: 8px 12px; color: #3178c6; font-family: 'Courier New', monospace; font-size: 12px;">TypeScript</span>
-    <span style="background: rgba(0, 0, 0, 0.2); border: 1px solid #fff; border-radius: 4px; padding: 8px 12px; color: #fff; font-family: 'Courier New', monospace; font-size: 12px;">Rust</span>
-    <span style="background: rgba(0, 173, 216, 0.2); border: 1px solid #00add8; border-radius: 4px; padding: 8px 12px; color: #00add8; font-family: 'Courier New', monospace; font-size: 12px;">Go</span>
-    <span style="background: rgba(55, 118, 171, 0.2); border: 1px solid #3776ab; border-radius: 4px; padding: 8px 12px; color: #3776ab; font-family: 'Courier New', monospace; font-size: 12px;">Python</span>
-  </div>
-
-  <div style="color: #00ff88; font-family: 'Courier New', monospace; font-size: 14px; margin-bottom: 15px; text-align: center;">[ FRONTEND MODULES ]</div>
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom: 20px;">
-    <span style="background: rgba(97, 218, 251, 0.2); border: 1px solid #61dafb; border-radius: 4px; padding: 8px 12px; color: #61dafb; font-family: 'Courier New', monospace; font-size: 12px;">React</span>
-    <span style="background: rgba(0, 0, 0, 0.2); border: 1px solid #fff; border-radius: 4px; padding: 8px 12px; color: #fff; font-family: 'Courier New', monospace; font-size: 12px;">Next.js</span>
-    <span style="background: rgba(79, 192, 141, 0.2); border: 1px solid #4fc08d; border-radius: 4px; padding: 8px 12px; color: #4fc08d; font-family: 'Courier New', monospace; font-size: 12px;">Vue.js</span>
-    <span style="background: rgba(6, 182, 212, 0.2); border: 1px solid #06b6d4; border-radius: 4px; padding: 8px 12px; color: #06b6d4; font-family: 'Courier New', monospace; font-size: 12px;">Tailwind</span>
-  </div>
-
-  <div style="color: #ff6b6b; font-family: 'Courier New', monospace; font-size: 14px; margin-bottom: 15px; text-align: center;">[ BACKEND SYSTEMS ]</div>
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <span style="background: rgba(51, 153, 51, 0.2); border: 1px solid #339933; border-radius: 4px; padding: 8px 12px; color: #339933; font-family: 'Courier New', monospace; font-size: 12px;">Node.js</span>
-    <span style="background: rgba(0, 150, 136, 0.2); border: 1px solid #009688; border-radius: 4px; padding: 8px 12px; color: #009688; font-family: 'Courier New', monospace; font-size: 12px;">FastAPI</span>
-    <span style="background: rgba(36, 150, 237, 0.2); border: 1px solid #2496ed; border-radius: 4px; padding: 8px 12px; color: #2496ed; font-family: 'Courier New', monospace; font-size: 12px;">Docker</span>
-    <span style="background: rgba(65, 105, 225, 0.2); border: 1px solid #4169e1; border-radius: 4px; padding: 8px 12px; color: #4169e1; font-family: 'Courier New', monospace; font-size: 12px;">PostgreSQL</span>
-  </div>
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-anviod-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anviod)
 
 ---
 
 <div align="center">
-  <div style="background: linear-gradient(135deg, #0a0e17 0%, #1a1f35 100%); border: 1px solid #00d4ff; border-radius: 4px; padding: 10px 20px; box-shadow: 0 0 15px rgba(0, 212, 255, 0.2);">
-    <span style="color: #00d4ff; font-family: 'Courier New', monospace; font-size: 12px;">PROFILE VIEWS </span>
-    <span style="color: #00ff88; font-family: 'Courier New', monospace; font-size: 18px; font-weight: bold; margin-left: 10px;">
-      <img src="https://komarev.com/ghpvc/?username=anviod&style=flat&color=00ff88&label=" style="height: 20px; vertical-align: middle;" />
-    </span>
-  </div>
-</div>
 
-<br>
+`// END OF TRANSMISSION // SYSTEM STATUS: OPERATIONAL //`
+`// 传输结束 // 系统状态：运行中 //`
 
-<!-- FOOTER -->
-<div align="center">
-  <img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0a0e17,00d4ff,0a0e17&height=2&section=footer" />
-  <p style="color: #666; font-family: 'Courier New', monospace; font-size: 10px; margin-top: 10px;">
-    // END OF TRANSMISSION // SYSTEM STATUS: OPERATIONAL //
-  </p>
 </div>
