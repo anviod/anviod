@@ -92,18 +92,14 @@ philosophy:       "Simplicity is the ultimate sophistication" / "简约是极致
 ![PROFINET](https://img.shields.io/badge/PROFINET-00875A?style=for-the-badge&logo=profinet&logoColor=white)
 ![EtherCAT](https://img.shields.io/badge/EtherCAT-E67E22?style=for-the-badge&logo=ethernet&logoColor=white)
 ![CANopen](https://img.shields.io/badge/CANopen-C0392B?style=for-the-badge&logo=canyon&logoColor=white)
-![IEC 61850](https://img.shields.io/badge/IEC_61850-D35400?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![IEC 104](https://img.shields.io/badge/IEC_104-7F8C8D?style=for-the-badge&logo=powerapps&logoColor=white)
 
 ### **[ IoT & EDGE | 物联网与边缘计算 ]**
 
 ![IoT](https://img.shields.io/badge/IoT-E6770E?style=for-the-badge&logo=iota&logoColor=white)
-![Edge Computing](https://img.shields.io/badge/Edge_Computing-3498DB?style=for-the-badge&logo=edge&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 ![CoAP](https://img.shields.io/badge/CoAP-27AE60?style=for-the-badge&logo=webmin&logoColor=white)
 ![NB-IoT](https://img.shields.io/badge/NB_IoT-2980B9?style=for-the-badge&logo=nfc&logoColor=white)
-![5G](https://img.shields.io/badge/5G-E91E63?style=for-the-badge&logo=fivehundredpx&logoColor=white)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 
 ### **[ ENERGY SYSTEMS | 能源系统 ]**
 
@@ -112,7 +108,6 @@ philosophy:       "Simplicity is the ultimate sophistication" / "简约是极致
 ![BMS](https://img.shields.io/badge/BMS-1ABC9C?style=for-the-badge&logo=bookmeter&logoColor=white)
 ![EMS](https://img.shields.io/badge/EMS-3498DB?style=for-the-badge&logo=powerbi&logoColor=white)
 ![SCADA](https://img.shields.io/badge/SCADA_Power-4A90D9?style=for-the-badge&logo=grafana&logoColor=white)
-![Microgrid](https://img.shields.io/badge/Microgrid-9B59B6?style=for-the-badge&logo=microgen&logoColor=white)
 
 ---
 
