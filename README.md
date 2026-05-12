@@ -55,10 +55,6 @@ philosophy:       "Simplicity is the ultimate sophistication" / "简约是极致
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=anviod&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=8B949E&dates=8B949E" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anviod&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ff88&line=00ff88&point=00ff88&area=true&area_color=00ff88" />
-</div>
-
 ---
 
 ## **// TECHNOLOGY ARRAY | 技术阵列**
