@@ -110,16 +110,3 @@ philosophy:       "Simplicity is the ultimate sophistication" / "简约是极致
 ![SCADA](https://img.shields.io/badge/SCADA_Power-4A90D9?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
-
-## **// CONNECT | 链接**
-
-[![GitHub](https://img.shields.io/badge/GitHub-anviod-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anviod)
-
----
-
-<div align="center">
-
-`// END OF TRANSMISSION // SYSTEM STATUS: OPERATIONAL //`
-`// 传输结束 // 系统状态：运行中 //`
-
-</div>
