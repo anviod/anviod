@@ -77,29 +77,11 @@ philosophy:       "Simplicity is the ultimate sophistication" / "简约是极致
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### **[ BACKEND SYSTEMS | 后端系统 ]**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
 ### **[ INFRASTRUCTURE | 基础设施 ]**
 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### **[ INDUSTRIAL AUTOMATION | 工业自动化 ]**
-
-![Siemens](https://img.shields.io/badge/Siemens-009999?style=for-the-badge&logo=siemens&logoColor=white)
-![PLC](https://img.shields.io/badge/PLC-FF6F00?style=for-the-badge&logo=prosieben&logoColor=white)
-![SCADA](https://img.shields.io/badge/SCADA-4A90D9?style=for-the-badge&logo=grafana&logoColor=white)
-![DCS](https://img.shields.io/badge/DCS-8E44AD?style=for-the-badge&logo=processwire&logoColor=white)
-![MES](https://img.shields.io/badge/MES-2C3E50?style=for-the-badge&logo=sap&logoColor=white)
-![HMI](https://img.shields.io/badge/HMI-16A085?style=for-the-badge&logo=touchpointer&logoColor=white)
 
 ### **[ INDUSTRIAL PROTOCOLS | 工业通信协议 ]**
 
@@ -119,21 +101,16 @@ philosophy:       "Simplicity is the ultimate sophistication" / "简约是极致
 ![Edge Computing](https://img.shields.io/badge/Edge_Computing-3498DB?style=for-the-badge&logo=edge&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
 ![CoAP](https://img.shields.io/badge/CoAP-27AE60?style=for-the-badge&logo=webmin&logoColor=white)
-![LoRa](https://img.shields.io/badge/LoRa-F39C12?style=for-the-badge&logo=lora&logoColor=white)
-![Zigbee](https://img.shields.io/badge/Zigbee-E01A22?style=for-the-badge&logo=zigbee&logoColor=white)
 ![NB-IoT](https://img.shields.io/badge/NB_IoT-2980B9?style=for-the-badge&logo=nfc&logoColor=white)
 ![5G](https://img.shields.io/badge/5G-E91E63?style=for-the-badge&logo=fivehundredpx&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ### **[ ENERGY SYSTEMS | 能源系统 ]**
 
 ![Wind Power](https://img.shields.io/badge/Wind_Power-00B4D8?style=for-the-badge&logo=windi&logoColor=white)
-![Solar PV](https://img.shields.io/badge/Solar_PV-FDB813?style=for-the-badge&logo=sololearn&logoColor=black)
 ![Energy Storage](https://img.shields.io/badge/Energy_Storage-00D26A?style=for-the-badge&logo=batteryfull&logoColor=white)
 ![BMS](https://img.shields.io/badge/BMS-1ABC9C?style=for-the-badge&logo=bookmeter&logoColor=white)
 ![EMS](https://img.shields.io/badge/EMS-3498DB?style=for-the-badge&logo=powerbi&logoColor=white)
-![IEC 61850](https://img.shields.io/badge/IEC_61850-D35400?style=for-the-badge&logo=powerautomate&logoColor=white)
 ![SCADA](https://img.shields.io/badge/SCADA_Power-4A90D9?style=for-the-badge&logo=grafana&logoColor=white)
 ![Microgrid](https://img.shields.io/badge/Microgrid-9B59B6?style=for-the-badge&logo=microgen&logoColor=white)
 
