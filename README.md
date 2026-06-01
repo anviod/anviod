@@ -65,10 +65,6 @@ philosophy:       "Simplicity is the ultimate sophistication" / "简约是极致
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### **[ FRONTEND MODULES | 前端模块 ]**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -89,13 +85,6 @@ philosophy:       "Simplicity is the ultimate sophistication" / "简约是极致
 ![EtherCAT](https://img.shields.io/badge/EtherCAT-E67E22?style=for-the-badge&logo=ethernet&logoColor=white)
 ![CANopen](https://img.shields.io/badge/CANopen-C0392B?style=for-the-badge&logo=canyon&logoColor=white)
 ![IEC 104](https://img.shields.io/badge/IEC_104-7F8C8D?style=for-the-badge&logo=powerapps&logoColor=white)
-
-### **[ IoT & EDGE | 物联网与边缘计算 ]**
-
-![IoT](https://img.shields.io/badge/IoT-E6770E?style=for-the-badge&logo=iota&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-![CoAP](https://img.shields.io/badge/CoAP-27AE60?style=for-the-badge&logo=webmin&logoColor=white)
-![NB-IoT](https://img.shields.io/badge/NB_IoT-2980B9?style=for-the-badge&logo=nfc&logoColor=white)
 
 ### **[ ENERGY SYSTEMS | 能源系统 ]**
 
